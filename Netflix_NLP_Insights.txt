@@ -1,0 +1,11 @@
+
+NLP-Based Content Description Analysis
+
+- TF-IDF: Found important keywords in descriptions.
+- Word Cloud: Visualized frequent words in titles.
+- LDA: Grouped content into topic clusters.
+- Sentiment Analysis: Detected tone as positive, neutral, or negative.
+
+Summary:
+NLP techniques helped extract patterns and themes from textual content. 
+This gives deeper insights into how Netflix positions content and what kinds of shows dominate different sentiment clusters or topics.
